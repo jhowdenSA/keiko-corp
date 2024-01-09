@@ -849,13 +849,10 @@ footer .copyright a{
 
 
 
-
-
 	/*		Hero section 		*/
 
-
 	.hero {
-		background: none;
+		background: #e0e7e7;
 	}
 	.hero .caption{
 		margin-left: 0;
