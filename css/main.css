@@ -852,6 +852,11 @@ footer .copyright a{
 
 
 	/*		Hero section 		*/
+
+
+	.hero {
+		background: none;
+	}
 	.hero .caption{
 		margin-left: 0;
 	}
